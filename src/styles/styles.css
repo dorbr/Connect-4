@@ -1,0 +1,19 @@
+.block{
+    background: #000;
+    width: 5vw;
+    height: 5vw;
+    display: inline-block;
+    border-style: solid;
+    border-color: red;
+}
+.row{
+    width: 40vw; 
+    overflow: hidden;
+    white-space: nowrap;
+}
+.Red{
+  background-color: red;  
+}
+.Yellow{
+    background-color:yellow;
+}
